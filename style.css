@@ -1,0 +1,338 @@
+body{
+    width: 90%;
+}
+
+.nav-links {
+    display: flex;
+    gap: 40px;
+    color: #003087;
+    font-size: 35px;
+    background-color: white;
+    width: 100%;
+    height: 5%;
+    padding-top: 10px;
+    padding-left: 220px;
+
+}
+
+#help{
+    margin-left: 350px;
+}
+
+#paypallogo{
+    margin-top: 0%;
+    
+}
+.registration{
+    display: flex;
+    gap: 5px;
+    height: 30px;
+}
+
+
+h1{
+    color: white;
+    font-size: 60px;
+}
+
+.QR{
+    width: 150px;
+    height: 150px;
+
+}
+.textcontent.auto{
+    padding-bottom: 15%;
+} 
+
+
+.textcontent{
+    padding-left: 10%;
+    width: 99.9%;
+    background-color: #1b489b;
+    height: 20%;
+    
+}
+.textcontent p{
+    color: #4c76c4;
+}
+
+.textcontent h4{
+    color: rgb(240, 255, 255);
+    line-height: 50%;
+    
+}
+
+.underbanner{
+    background-color: white;
+    
+}
+.underbanner h3{
+    padding-left: 22%;
+    font-size: 25px;
+}
+.underbanner span{
+    padding-left: 3%;
+    color: #003087;
+}
+
+.buy{
+    padding-left: 15%;
+    padding-top: 3%;
+    display: flex;
+    background: white;
+}
+.buy h2 {
+    padding-top: 20px;
+    font-size: 30px;
+}
+.buy p{
+    font-size: medium;
+    padding-top: 20px;
+    font-weight: 100;
+}
+
+.buy h2 span{
+    display: block;
+    
+}
+.buy small{
+    font-size: 20px;
+    color: #4c76c4;
+}
+
+
+.crypto{
+    position: relative;
+    margin-left: 99px;
+    font-size: 25px;
+    margin-top: 100px;
+    width: 65%;
+    background-color: rgb(255, 255, 255);
+    height: 50%;
+}
+.crypto h2{
+    padding-left: 55px;
+}
+
+.crypto p{
+    font-size: 18px;
+    
+    
+}
+.crypto p span{
+    display: block;
+    
+}
+.cryptodiscreption p {
+    font-size: 15px;
+    font-weight: 100;
+    
+
+}
+
+
+
+.cryptodiscreption span{
+    display: block;
+
+}
+
+#spans{
+    display: block;
+}  
+.cryptodiscreption small{
+    font-size: 35px;
+    color: #4c76c4;
+}
+.cryptoimg{
+    position: absolute;
+    top: 0%;
+    right: 0%;
+}
+
+
+
+
+.touchfree{
+    padding-left: 18%;
+    padding-top: 3%;
+    display: flex;
+    background: rgb(255, 255, 255);
+    margin-top: 200px;
+}
+.touchfree h2 {
+    padding-left: 18px;
+    padding-top: 30px;
+    font-size: 35px;
+}
+.touchfree p{
+    font-size: 20px;
+    padding-top: 20px;
+    display: block;
+    font-weight: 100;
+    
+}
+
+
+    
+.touchfree small{
+    font-size: 25px;
+    color: #4c76c4;
+}
+
+
+
+
+
+
+
+
+
+.yourself{
+    position: relative;
+    margin-left: 99px;
+    font-size: 25px;
+    margin-top: 100px;
+    width: 111%;
+    background-color: rgb(255, 255, 255); 
+    height: 50%;
+    padding-top: 90px;
+}
+
+
+.yourself p span{
+    display: block;
+    font-weight: 100;
+}
+
+
+.yourself small{
+    font-size: 35px;
+    color: #4c76c4;
+    
+}
+.yourself img{
+    position: absolute;
+    top: 0%;
+    right: 0%;
+}
+
+
+
+.brands{
+    margin-top: 520px;
+    margin-left: 89px;
+    font-size: 25px;
+    background-color: #fffdfd;
+    width: 110%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+
+}
+
+.brands h2 span{
+    display: block;
+}
+
+
+.million{
+    background-color: #ffffff;
+    width: 102.99%;
+    height: 90%;
+    padding-left: 490px;
+    
+   
+    
+}
+
+.million small{
+    padding-left: 190px;
+    color: #1b489b;
+    
+}
+
+.million h2 span {
+    display: block;
+    padding-left: 39px;
+   
+}
+
+
+
+
+.upfooter{
+   background-color: rgb(255, 255, 255);
+   padding-left: 30px;
+   width: 110%;
+
+}
+.upfooter h6{
+    font-weight: 100;
+    
+}
+
+
+.footer{
+    display: flex;
+    gap: 30px;
+    font-size: 18px;
+}
+
+.footer img{
+    padding-left: 460px;
+    padding-bottom: 550px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
