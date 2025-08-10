@@ -1,5 +1,5 @@
 body{
-    width: 90%;
+    width: 89%;
 }
 
 .nav-links {
@@ -50,6 +50,7 @@ h1{
     width: 99.9%;
     background-color: #1b489b;
     height: 20%;
+
     
 }
 .textcontent p{
@@ -59,6 +60,7 @@ h1{
 .textcontent h4{
     color: rgb(240, 255, 255);
     line-height: 50%;
+    
     
 }
 
@@ -83,12 +85,13 @@ h1{
 }
 .buy h2 {
     padding-top: 20px;
-    font-size: 30px;
+    font-size: 40px;
 }
 .buy p{
-    font-size: medium;
+    font-size: 25px;
     padding-top: 20px;
     font-weight: 100;
+
 }
 
 .buy h2 span{
@@ -96,7 +99,7 @@ h1{
     
 }
 .buy small{
-    font-size: 20px;
+    font-size: 30px;
     color: #4c76c4;
 }
 
@@ -115,7 +118,7 @@ h1{
 }
 
 .crypto p{
-    font-size: 18px;
+    font-size: 22px;
     
     
 }
@@ -124,8 +127,9 @@ h1{
     
 }
 .cryptodiscreption p {
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 100;
+    padding-left: 45px;
     
 
 }
@@ -141,7 +145,7 @@ h1{
     display: block;
 }  
 .cryptodiscreption small{
-    font-size: 35px;
+    font-size: 40px;
     color: #4c76c4;
 }
 .cryptoimg{
@@ -163,10 +167,10 @@ h1{
 .touchfree h2 {
     padding-left: 18px;
     padding-top: 30px;
-    font-size: 35px;
+    font-size: 45px;
 }
 .touchfree p{
-    font-size: 20px;
+    font-size: 27px;
     padding-top: 20px;
     display: block;
     font-weight: 100;
@@ -197,18 +201,23 @@ h1{
     background-color: rgb(255, 255, 255); 
     height: 50%;
     padding-top: 90px;
+    padding-left: 60px;
 }
 
 
 .yourself p span{
     display: block;
-    font-weight: 100;
+    font-weight: 10;
+    
+    
+
 }
 
 
 .yourself small{
-    font-size: 35px;
+    font-size: 40px;
     color: #4c76c4;
+   
     
 }
 .yourself img{
@@ -228,6 +237,7 @@ h1{
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-end;
+    
 
 }
 
@@ -240,14 +250,14 @@ h1{
     background-color: #ffffff;
     width: 102.99%;
     height: 90%;
-    padding-left: 490px;
+    padding-left: 600px;
     
    
     
 }
 
 .million small{
-    padding-left: 190px;
+    padding-left: 260px;
     color: #1b489b;
     
 }
