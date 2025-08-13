@@ -1,5 +1,5 @@
 body{
-    width: 89%;
+    margin-right: 0px;
 }
 
 .nav-links {
@@ -40,12 +40,14 @@ h1{
     height: 150px;
 
 }
-.textcontent.auto{
+/* .textcontent.auto{
     padding-bottom: 15%;
-} 
+    
+}  */
 
 
-.textcontent{
+/* .textcontent{
+    justify-content: space-evenly;
     padding-left: 10%;
     width: 99.9%;
     background-color: #1b489b;
@@ -62,7 +64,35 @@ h1{
     line-height: 50%;
     
     
+} */
+
+.bannerdiv{
+    display: flex;
+    justify-content: space-around;
+    background-color: #003087 ;
 }
+
+.bannerdiv h2{
+    color: #fffdfd;
+    font-size: 75px;
+}
+.bannerdiv h2 span{
+    display: block;
+}
+.bannerdiv p{
+    color:  #1649a8 ;
+    font-size: 25px;
+}
+.bannerdiv h4{
+    font-size: 25px;
+}
+
+
+
+
+
+
+
 
 .underbanner{
     background-color: white;
@@ -76,6 +106,7 @@ h1{
     padding-left: 3%;
     color: #003087;
 }
+
 
 .buy{
     padding-left: 15%;
